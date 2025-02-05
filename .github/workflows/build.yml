@@ -95,7 +95,7 @@ jobs:
     - uses: actions/upload-artifact@v4
       with:
         name: asepeite
-        path:
+        path: |
           D:/a/aseprite/aseprite/build/bin/data
           D:/a/aseprite/aseprite/build/bin/aseprite.exe
        
